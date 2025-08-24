@@ -18,6 +18,9 @@ It demonstrates skills in data cleaning, preprocessing, visualization, and dashb
   - Data Visualization (Power BI, Matplotlib, Seaborn)  
   - Dashboard Design & Insights  
   - Business Recommendations
+
+Dashboard Preview
+![Amazon Sales Dashboard]()
      
 📌 About Me
 I am passionate about data analytics, visualization, and storytelling through data.  
