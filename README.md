@@ -20,7 +20,7 @@ It demonstrates skills in data cleaning, preprocessing, visualization, and dashb
   - Business Recommendations
 
 Dashboard Preview
-![Amazon Sales Dashboard]()
+![Amazon Sales Dashboard](data:image/amazon_dashboard)
      
 📌 About Me
 I am passionate about data analytics, visualization, and storytelling through data.  
